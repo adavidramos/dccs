@@ -1,0 +1,83 @@
+
+// David Ramos
+// dave@imaginaryterrain.com
+
+
+// bring in opening part of html5 boilerplate
+@import "_html5boilerplate-start.scss"
+
+
+// reusable -------------------------------------
+
+// additional resets
+dt, dd
+	margin: 0
+	padding: 0
+i,b
+	font-style: normal
+	font-weight: normal
+
+// we are using a more intuitive box model
+// see http://paulirish.com/2012/box-sizing-border-box-ftw
+*
+	-moz-box-sizing: border-box
+	-webkit-box-sizing: border-box
+	box-sizing: border-box
+
+// make it possible to set elts to full height of window
+body,
+html
+	height: 100%
+
+// visually hide but make available to screen readers (from h5bp)
+.visuallyhidden
+	border: 0
+	clip: rect(0 0 0 0)
+	height: 1px
+	margin: -1px
+	overflow: hidden
+	padding: 0
+	position: absolute
+	width: 1px
+
+// hide elements visually and from screen readers (from h5bp)
+.hidden
+	display: none !important
+	visibility: hidden
+
+
+
+// import sub files -------------------------------------
+
+// utilities
+@import 'bourbon'
+@import "compass/typography/lists/inline-block-list"
+@import "compass/typography/lists"
+
+// script support CSS
+
+// webfonts
+@import '../fonts/ss-social/ss-social.css'
+
+// import sub files
+@import "_color.sass"
+@import "_typography.sass"
+@import "_nano.sass"
+@import "_forms.sass"
+@import "_micro.sass"
+@import "_nav.sass"
+@import "_layout.sass"
+
+
+// -------------------------------------------------------------------
+// uncomment this rule to put a transparent background behind elements
+div, article
+	// background: $indicator !important
+
+
+// bring in closing html5 boilerplate
+@import "_html5boilerplate-end.scss"
+
+
+// print styles
+// @import "_print.sass"

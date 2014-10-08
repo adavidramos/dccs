@@ -1,0 +1,73 @@
+
+// font stacks
+$fm: 'Source Sans Pro', Verdana, Arial, sans-serif
+$fc: 'Arvo', Verdana, Arial, sans-serif
+
+body
+	font-family: $fm
+	font-size: 18px
+	line-height: 1.6em
+	color: $c_text
+
+p
+	margin: 0 0 0.75em 0
+	
+a
+	color: $c_strong
+	text-decoration: none
+	border-bottom: 1px solid $c_light_b
+
+a:active,
+a:visited
+	color: $c_strong
+	text-decoration: none
+
+a:hover
+	color: $c_strong
+	border-bottom-color: $c_strong
+
+@for $i from 1 through 6
+	h#{$i}
+		font-family: $fm
+		font-weight: normal
+		line-height: 1.5em
+		color: $c_text
+
+h1
+	font-family: $fc
+	font-size: 3em
+	font-weight: bold
+	color: $c_mid
+	line-height: 1.25em
+
+h2
+	font-family: $fc
+	font-size: 1.4em
+	font-weight: bold
+	color: $c_strong
+	margin: 1.5em 0 0.75em 0
+	
+h3
+	font-family: $fm
+	font-size: 1.1em
+	text-transform: uppercase
+	letter-spacing: 0.05em
+	font-weight: bold
+	color: $c_strong
+	margin: 1.5em 0 0.75em 0
+
+h4
+	font-family: $fm
+	font-size: 1em
+	font-weight: bold
+	color: $c_text
+
+blockquote
+	margin: 0 1em 1em 1em
+	padding: 1em
+	background: $c_contrast_bbb
+	
+// all caps
+.caps
+	text-transform: uppercase
+	letter-spacing: 0.05em

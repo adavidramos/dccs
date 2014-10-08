@@ -1,0 +1,37 @@
+
+// tiny, reusable components; building blocks for larger elements
+
+// simple noticably slow transition
+@mixin basic_transition
+	transition: all 0.75s
+
+// set up hover behavior for buttons
+// includes transition timing and background color
+@mixin btn_hover
+	@include basic_transition
+	&:hover
+		background-color: $c_strong
+		color: #fff
+		
+// blue button		
+.action_btn_b,
+.action_btn_b:visited
+	@extend .action_btn
+	background: $c_strong
+	color: #fff
+	@include basic_transition
+	&:hover
+		background-color: $c_text
+		@include basic_transition
+
+
+// make a button sit beside other content		
+.btn_inline
+	display: inline-block
+	
+	
+	
+	
+// individual buttons ----------------------------------------
+
+

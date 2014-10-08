@@ -1,0 +1,99 @@
+
+
+
+// main navigation
+
+.global_nav,
+.social_nav
+	+no-bullets
+	margin: 0
+	padding: 0
+	& > li
+		margin: 0 0 0.15em 0
+		& > a
+			border: none
+			padding: 2px 4px 2px 3px
+			border-radius: 3px
+		& > a:hover		
+			color: #fff
+			background-color: $c_strong
+			
+.social_nav
+	margin-top: 1em
+	padding-top: 1em
+	border-top: 1px solid $c_light_b	
+	& > li
+		& > a
+			color: $c_light
+		& > a:hover		
+			background: none
+			color: $c_strong
+		& > .ss-social
+			display: inline-block
+			margin: 4px 0 0 0
+			padding: 2px
+			font-size: 1.2em
+			
+		
+// active link
+.s_run .n_run,
+.s_blog .n_blog,
+.s_events .n_events,
+.s_about .n_about,
+.s_join .n_join
+	color: #fff
+	background-color: $c_strong
+
+
+
+
+
+
+
+// local nav
+.local_nav
+	width: 100%
+	@include clearfix
+	margin: -1em 0 0 0
+	ul
+		list-style: none
+		margin: 0
+		padding: 0
+	li
+		margin: 0 0.35em 0 0
+		padding: 0
+		float: left
+	a
+		color: #666
+		border: none
+		padding: 0 0.4em
+		display: inline-block
+		border: 1px $c_light_b solid
+		border-radius: 4px
+	a:hover,
+	a:hover i
+		border-color: $c_text
+		background: none
+		color: inherit
+	.active
+		.icon_decorative
+			color: #ccc
+	.icon_decorative
+		font-size: 0.85em
+		color: #ccc
+		position: relative
+		top: 0.15em
+		
+
+
+
+
+
+// footer
+
+#footer
+	color: $c_mid
+	a
+		color: $c_mid
+	a:hover
+		color: $c_strong
