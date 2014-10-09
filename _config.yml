@@ -95,3 +95,4 @@ prose:
     - /index.md
     - /README.md
     - /sass
+    - .gitignore
