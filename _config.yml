@@ -30,9 +30,13 @@ prose:
           element: "text"
           label: "category"
           value: "blog"
-      - name: "published"
+      - name: "author"
         field:
           element: "text"
+          label: "author"
+      - name: "published"
+        field:
+          element: "checkbox"
           label: "published"
           value: "true"
     _events:
@@ -41,6 +45,14 @@ prose:
           element: "hidden"
           label: "layout"
           value: "event"
+      - name: "date"
+        field:
+          element: "text"
+          label: "date"
+      - name: "teaser"
+        field:
+          element: "textarea"
+          label: "teaser"
       - name: "category"
         field:
           element: "select"
@@ -54,17 +66,9 @@ prose:
         field:
           element: "checkbox"
           label: "featured"
-      - name: "date"
-        field:
-          element: "text"
-          label: "date"
-      - name: "teaser"
-        field:
-          element: "textarea"
-          label: "teaser"
       - name: "published"
         field:
-          element: "text"
+          element: "checkbox"
           label: "published"
           value: "true"
   ignore:
