@@ -13,3 +13,10 @@ markdown: kramdown
 prose:
   media: "media/uploads"
   
+# Prose metadata
+metadata:
+  _posts:
+    - name: "title"
+      field:
+        element: "text"
+        label: "title"
