@@ -11,8 +11,15 @@ markdown: kramdown
 
 # Prose
 prose:
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
   ignore:
     - _config.yml
+    - /.sass-cache
     - /_layouts
     - /_includes
     - /sass
