@@ -19,12 +19,25 @@ collections:
 # Prose
 prose:
   metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
     _events:
       - name: "layout"
         field:
           element: "hidden"
           label: "layout"
           value: "event"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "date-year"
         field:
           label: "year (four digits)"
