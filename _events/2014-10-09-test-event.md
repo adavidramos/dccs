@@ -2,7 +2,7 @@
 layout: event
 published: true
 title: Test Event
-category: events
+category: races
 featured: true
 teaser: "This is teaser text, just plain text."
 "date-year": "2014"
