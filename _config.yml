@@ -38,14 +38,16 @@ prose:
     _events:
       - name: "layout"
         field:
-          element: "text"
+          element: "hidden"
           label: "layout"
           value: "event"
       - name: "category"
         field:
-          element: "text"
+          element: "select"
           label: "category"
-          value: "events"
+          options:
+           - name: "events"
+             value: "events"
       - name: "published"
         field:
           element: "text"
