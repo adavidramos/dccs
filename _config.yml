@@ -12,9 +12,8 @@ permalink: /:categories/:year/:month/:title/
 
 # Collections
 collections:
-  races:
-    output: true
   events:
+    permalink: /events/:name/
     output: true
 
 # Prose

@@ -6,17 +6,22 @@ layout: page
 
 
 
-{% for document in site.races reversed %}
+{% assign sorted = (site.events | sort: 'date' | reverse) %}
+{% for document in sorted %}
 
-	<div class="event-listing">
+	{% if document.category contains 'races' %}
 
-		<h4>
-			<a href="{{ document.url }}">
-				{{ document.title }}
-			<i>{{ document.date|date:"%A, %-d %B %Y" }}</i>
-			</a>
-		</h4>
+		<div class="event-listing">
 
-	</div>
+			<h4>
+				<a href="{{ document.url }}">
+					{{ document.title }}
+				<i>{{ document.date|date:"%A, %-d %B %Y" }}</i>
+				</a>
+			</h4>
+
+		</div>
+
+	{% endif %}
 
 {% endfor %}
