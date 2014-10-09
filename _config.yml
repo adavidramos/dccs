@@ -8,3 +8,8 @@ url: "http://dccapitalstriders.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+# Prose
+prose:
+  media: "media/uploads"
+  
