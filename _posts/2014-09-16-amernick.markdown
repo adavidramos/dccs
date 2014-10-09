@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Club President Rick Amernick in Endurance Racing Magazine"
+slug: "club-president-rick-amernick-endurance-racing-maga"
+status: "PUBLISHED"
+featured: 0
+date: "2014-09-16 12:00:00"
+department_label: 
+thumbnail: ""
+teaser: ""
+author: 
+tags: ""
+allow_comments: 0
+---
+<p>Club president Rick Amernick is featured in&nbsp;<a href="http://go.epublish4me.com/ebook/ebook?id=10079787#/0">September/October issue of Endurance Racing Magazine</a>&nbsp;(p. 30/31).</p>

@@ -1,0 +1,26 @@
+---
+layout: page
+---
+{{ content }}
+
+
+
+
+{% assign sorted_pages = (site.pages | sort: 'date' | reverse) %}
+
+{% for page in sorted_pages %}
+	{% if page.layout == 'race' %}
+	
+		<div class="event-listing">
+
+			<h4>
+				<a href="{{ page.url }}">
+					{{ page.title }}
+				<i>{{ page.date|date:"%a., %-d %B %Y" }}</i>
+				</a>
+			</h4>
+	
+		</div>
+
+	{% endif %}
+{% endfor %}

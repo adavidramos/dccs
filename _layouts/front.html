@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div class="post">
+
+
+	{{ content }}
+
+
+<hr>
+
+{% assign sorted_pages = (site.pages | sort: 'date' | reverse) %}
+{% for page in sorted_pages %}
+	{% if page.featured-event %}
+	
+		<div class="event-listing">
+
+			<h4>
+				<a href="{{ page.url }}">
+					{{ page.title }}
+				<i>{{ page.date|date:"%a., %-d %B %Y" }}</i>
+				</a>
+			</h4>
+	
+		</div>
+
+	{% endif %}
+	
+{% endfor %}
+
+<hr>
+
+{% for post in site.posts limit:1 %}
+
+	<h4>
+		<a href="{{ post.url }}">
+		{% if post.department_label %}<i class="department_label">{{ post.department_label }}: </i>{% endif %}
+		{{ post.title }}
+		<i>{{ post.date|date:"%-d %B %Y" }}</i>
+		</a>
+	</h4>
+
+	{{ post.teaser|safe }}
+
+{% endfor %}
+
+
+</div>

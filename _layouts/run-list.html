@@ -1,0 +1,33 @@
+---
+layout: page
+---
+{{ content }}
+
+
+
+
+{% for page in site.pages %}
+	{% if page.layout == 'run' %}
+	
+		<div class="run">
+
+			<h3>{{ page.title }}</h3>
+	
+			<p>{{ page.schedule }}</p>
+	
+			<p>{{ page.location }}</p>
+
+			{{ page.content }}
+
+			{% if page.leader %}<p>Led by <a href="mailto:{{ page.leader_email }}">{{ page.leader }}</a></p>{% endif %}
+	
+			<p>
+				RSVP:
+				{% if page.group_dc %}<a href="http://www.meetup.com/dccapitalstriders/#calendar">DCCS DC on Meetup</a>{% endif %}
+				{% if page.group_va %}<a href="http://www.meetup.com/dccapitalstriders-nova/#calendar">DCCS VA on Meetup</a>{% endif %}
+			</p>
+	
+		</div>
+
+	{% endif %}
+{% endfor %}
