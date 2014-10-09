@@ -11,7 +11,7 @@ markdown: kramdown
 
 # Prose
 prose:
-  media: "media/uploads"
+  media: "media"
   metadata:
     _posts:
       - name: "title"
