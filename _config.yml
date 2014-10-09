@@ -16,7 +16,24 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
-  metadata:
+    - /sass
+    - /_sass
+    - /_config.yml
+    - /_includes
+    - /_layouts
+    - /_sass
+    - /_site
+    - /assets
+    - /CNAME
+    - /config.rb
+    - /css
+    - /feed.xml
+    - /Gemfile
+    - /Gemfile.lock
+    - /index.md
+    - /README.md
+    - /sass
+    metadata:
     _posts:
       - name: "title"
         field:
