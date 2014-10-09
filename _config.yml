@@ -17,6 +17,16 @@ prose:
         field:
           element: "text"
           label: "title"
+    events:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+    races:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
   ignore:
     - _config.yml
     - /.sass-cache
