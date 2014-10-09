@@ -10,6 +10,13 @@ url: "http://dccapitalstriders.com" # the base hostname & protocol for your site
 markdown: kramdown
 permalink: /:categories/:year/:month/:title/
 
+# Collections
+collections:
+  races:
+    output: true
+  events:
+    output: true
+
 # Prose
 prose:
   metadata:

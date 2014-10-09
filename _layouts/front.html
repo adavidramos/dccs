@@ -9,22 +9,43 @@ layout: default
 
 <hr>
 
+{% for document in site.races reversed %}
+	{% if document.featured %}
+		<div class="event-listing">
+			<h4>
+				<a href="{{ document.url }}">
+					{{ document.title }}
+				<i>{{ document.date|date:"%a., %-d %B %Y" }}</i>
+				</a>
+			</h4>
+		</div>
+	{% endif %}
+{% endfor %}
+
+{% for document in site.events reversed %}
+	{% if document.featured %}
+		<div class="event-listing">
+			<h4>
+				<a href="{{ document.url }}">
+					{{ document.title }}
+				<i>{{ document.date|date:"%a., %-d %B %Y" }}</i>
+				</a>
+			</h4>
+		</div>
+	{% endif %}
+{% endfor %}
+
 {% for post in site.posts %}
 	{% if post.featured %}
-	
 		<div class="event-listing">
-
 			<h4>
 				<a href="{{ post.url }}">
 					{{ post.title }}
 				<i>{{ post.date|date:"%a., %-d %B %Y" }}</i>
 				</a>
 			</h4>
-	
 		</div>
-
 	{% endif %}
-	
 {% endfor %}
 
 

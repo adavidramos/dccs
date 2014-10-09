@@ -5,19 +5,17 @@ layout: page
 
 
 
-{% for post in site.posts %}
-	{% if post.categories contains 'events' %}
-	
-		<div class="event-listing">
+{% for document in site.events reversed %}
 
-			<h4>
-				<a href="{{ post.url }}">
-					{{ post.title }}
-				<i>{{ post.date|date:"%a., %-d %B %Y" }}</i>
-				</a>
-			</h4>
-	
-		</div>
+	<div class="event-listing">
 
-	{% endif %}
+		<h4>
+			<a href="{{ document.url }}">
+				{{ document.title }}
+			<i>{{ document.date|date:"%A, %-d %B %Y" }}</i>
+			</a>
+		</h4>
+
+	</div>
+
 {% endfor %}
