@@ -4,7 +4,9 @@ title: "Volunteer: 11 1/2th Potomac River Run Marathon"
 featured: 1
 category: events
 teaser: "Event: Volunteer with DCCS at 11 1/2th Potomac River Run Marathon"
-date: 2014-11-16
+date-year: 2014
+date-month: 11
+date-day: 16
 ---
 
 Time: TWO SHIFTS - we need folks from 8 am to 10:30 am and folks from 10:30 am to around 1 PM.

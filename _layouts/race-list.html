@@ -6,17 +6,19 @@ layout: page
 
 
 
-{% assign sorted = (site.events | sort: 'date' | reverse) %}
+{% assign sorted = (site.events | sort: 'date-year,date-month,date-day' | reverse) %}
 {% for document in sorted %}
 
 	{% if document.category contains 'races' %}
+
+		{% capture fulldate %}{{document.date-year}}-{{ document.date-month}}-{{ document.date-day}}{% endcapture %}
 
 		<div class="event-listing">
 
 			<h4>
 				<a href="{{ document.url }}">
 					{{ document.title }}
-				<i>{{ document.date|date:"%A, %-d %B %Y" }}</i>
+				<i>{{ fulldate|date:"%A, %-d %B %Y" }}</i>
 				</a>
 			</h4>
 

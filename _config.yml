@@ -25,10 +25,18 @@ prose:
           element: "hidden"
           label: "layout"
           value: "event"
-      - name: "date"
+      - name: "date-year"
         field:
+          label: "year"
           element: "text"
-          label: "date"
+      - name: "date-month"
+        field:
+          label: "month"
+          element: "text"
+      - name: "date-day"
+        field:
+          label: "day of month"
+          element: "text"
       - name: "teaser"
         field:
           element: "textarea"

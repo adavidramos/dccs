@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
-<p>Date: {{ page.date|date:"%A, %-d %B %Y" }}</p>
+{% capture fulldate %}{{page.date-year}}-{{ page.date-month}}-{{ page.date-day}}{% endcapture %}
+<p>Date: {{ fulldate|date:"%A, %-d %B %Y" }}</p>
 
 {{ content }}
