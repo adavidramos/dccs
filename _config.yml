@@ -19,26 +19,6 @@ collections:
 # Prose
 prose:
   metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "text"
-          label: "layout"
-          value: "post"
-      - name: "category"
-        field:
-          element: "text"
-          label: "category"
-          value: "blog"
-      - name: "author"
-        field:
-          element: "text"
-          label: "author"
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "published"
-          value: "true"
     _events:
       - name: "layout"
         field:
