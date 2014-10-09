@@ -2,11 +2,11 @@
 
 # Set this to the root of your project when deployed:
 http_path = "/"
-css_dir = "django_root/public/assets/css"
-sass_dir = "/sass"
-images_dir = "django_root/public/assets/images"
-javascripts_dir = "django_root/public/assets/js"
-fonts_dir = "django_root/public/assets/fonts"
+css_dir = "assets/css"
+sass_dir = "sass"
+images_dir = "assets/images"
+javascripts_dir = "assets/js"
+fonts_dir = "assets/fonts"
 
 output_style = :compressed
 

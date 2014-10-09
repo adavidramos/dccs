@@ -4,7 +4,7 @@ title: "Volunteer: Army Ten Miler"
 featured: true
 category: events
 teaser: null
-date: Sat Oct 11 2014
+date: 2014-10-11
 published: true
 ---
 
