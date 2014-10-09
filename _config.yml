@@ -12,6 +12,10 @@ markdown: kramdown
 # Prose
 prose:
   media: "media"
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
   metadata:
     _posts:
       - name: "title"
