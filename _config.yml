@@ -35,6 +35,22 @@ prose:
           element: "text"
           label: "published"
           value: "true"
+    _events:
+      - name: "layout"
+        field:
+          element: "text"
+          label: "layout"
+          value: "event"
+      - name: "category"
+        field:
+          element: "text"
+          label: "category"
+          value: "events"
+      - name: "published"
+        field:
+          element: "text"
+          label: "published"
+          value: "true"
   ignore:
     - _config.yml
     - /.sass-cache
