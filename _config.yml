@@ -11,10 +11,3 @@ markdown: kramdown
 
 # Prose
 prose:
-  media: "media"
-    metadata:
-    _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
