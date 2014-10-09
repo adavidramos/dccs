@@ -13,15 +13,6 @@ permalink: /:categories/:year/:month/:title/
 # Prose
 prose:
   metadata:
-    _posts/blog:
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-      - name: "category"
-        field:
-          element: "hidden"
-          label: "blog"
     _posts/events:
       - name: "title"
         field:
