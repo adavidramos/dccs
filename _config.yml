@@ -27,15 +27,15 @@ prose:
           value: "event"
       - name: "date-year"
         field:
-          label: "year"
+          label: "year (four digits)"
           element: "text"
       - name: "date-month"
         field:
-          label: "month"
+          label: "month (two digits)"
           element: "text"
       - name: "date-day"
         field:
-          label: "day of month"
+          label: "day of month (two digits)"
           element: "text"
       - name: "teaser"
         field:
@@ -45,6 +45,7 @@ prose:
         field:
           element: "select"
           label: "category"
+          alterable: false
           options:
            - name: "events"
              value: "events"
