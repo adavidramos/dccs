@@ -1,6 +1,6 @@
 ---
 layout: event
-published: true
+published: false
 title: Test Event
 category: races
 featured: true
