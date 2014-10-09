@@ -48,6 +48,20 @@ prose:
           options:
            - name: "events"
              value: "events"
+           - name: "races"
+             value: "races"
+      - name: "featured"
+        field:
+          element: "checkbox"
+          label: "featured"
+      - name: "date"
+        field:
+          element: "text"
+          label: "date"
+      - name: "teaser"
+        field:
+          element: "textarea"
+          label: "teaser"
       - name: "published"
         field:
           element: "text"
