@@ -13,21 +13,33 @@ permalink: /:categories/:year/:month/:title/
 # Prose
 prose:
   metadata:
-    _posts:
+    _posts/blog:
       - name: "title"
         field:
           element: "text"
           label: "title"
-    events:
+      - name: "category"
+        field:
+          element: "hidden"
+          label: "blog"
+    _posts/events:
       - name: "title"
         field:
           element: "text"
           label: "title"
-    races:
+      - name: "category"
+        field:
+          element: "hidden"
+          label: "events"
+    _posts/races:
       - name: "title"
         field:
           element: "text"
           label: "title"
+      - name: "category"
+        field:
+          element: "hidden"
+          label: "races"
   ignore:
     - _config.yml
     - /.sass-cache
