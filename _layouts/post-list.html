@@ -4,21 +4,25 @@ layout: page
 
 {% for post in site.posts %}
 
-	<h4>
-		<a href="{{ post.url }}">
-		{% if post.department_label %}<i class="department_label">{{ post.department_label }}: </i>{% endif %}
-		{{ post.title }}
-		</a>
-	</h4>
+	{% if post.categories contains 'blog' %}
 
-	<p class="byline">
-		{% if post.author %}
-			{{ post.author }}, 
-		{% endif %}
-		{{ post.date|date:"%-d %B %Y" }}
-	</p>
+		<h4>
+			<a href="{{ post.url }}">
+			{% if post.department_label %}<i class="department_label">{{ post.department_label }}: </i>{% endif %}
+			{{ post.title }}
+			</a>
+		</h4>
 
-	{{ post.teaser|safe }}
+		<p class="byline">
+			{% if post.author %}
+				{{ post.author }}, 
+			{% endif %}
+			{{ post.date|date:"%-d %B %Y" }}
+		</p>
+
+		{{ post.teaser|safe }}
+
+	{% endif %}
 
 {% endfor %}
 
