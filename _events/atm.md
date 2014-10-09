@@ -1,10 +1,11 @@
 ---
 layout: event
 title: "Volunteer: Army Ten Miler"
-featured: 1
+featured: true
 category: events
-teaser: "Volunteer with DCCS at Army Ten Miler"
-date: 2014-10-12
+teaser: null
+date: Sat Oct 11 2014
+published: true
 ---
 
 Time: approximately from 6:30 am to around 9 am
