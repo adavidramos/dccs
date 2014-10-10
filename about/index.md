@@ -1,9 +1,12 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
-The DC Capital Striders Running Group began in Spring 2006. The group&rsquo;s primary purpose and vision is to allow runners of all endurance levels, paces, distances and months or years of running experience to run together in a non-competitive atmosphere and to get to know each other through a variety of social activities.
+DC Capital Striders works to bring together runners of all paces, distances, and months or years of experience. We organize non-competitive group runs, social events, volunteer programs, and races. Established in 2006, the club has members across the District, Virginia, and Maryland.
+
+
 
 ### Board
 
