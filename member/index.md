@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Member Benefits
+published: true
 ---
+
 ## Vendor discounts
 
 **EPIC BAR - Get 20% off your order at&nbsp;[http://epicbar.com/](http://epicbar.com/)&nbsp;**using code** capitalstriders-&nbsp;**The EPIC bar is a 100% grass fed animal based protein bar designed as nature intended. Paleo friendly, gluten free, and low in sugar, we believe that EPIC foods should inspire EPIC health.
@@ -22,9 +24,14 @@ title: Member Benefits
 
 ## Race discounts
 
-### <span style="font-size: 15px;">Sunday, November 16</span>
+### Saturday, November 11
 
-Race: .US National 12K - one of three largest races in DC Area!
+The Color Run™ DC
+Sign up using code STRIDERS to save $5.
+
+### Sunday, November 16
+
+Race: US National 12K - one of three largest races in DC Area!
 Meetup Page:&nbsp;[http://www.meetup.com/dccapitalstriders/events/203298152/
 ](http://www.meetup.com/dccapitalstriders/events/203298152/)We have 10 FREE complimentary entries!
 
