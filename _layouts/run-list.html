@@ -7,7 +7,7 @@ layout: page
 
 
 {% for page in site.pages %}
-	{% if page.layout == 'run' %}
+	{% if page.layout == 'run' and page.published != 'false'  %}
 	
 		<div class="run">
 
