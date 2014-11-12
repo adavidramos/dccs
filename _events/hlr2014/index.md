@@ -1,0 +1,13 @@
+---
+layout: event
+title: "Holiday Lights Run 2014"
+featured: true
+category: events
+teaser: null
+date-year: 2014
+date-month: 12
+date-day: 15
+published: true
+---
+
+Text
