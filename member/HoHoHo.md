@@ -24,27 +24,18 @@ published: true
 
 ## Race discounts
 
-### Saturday, November 11
-
-The Color Run™ DC
-Sign up using code STRIDERS to save $5.
-
-### Sunday, November 16
-
-Race: US National 12K - one of three largest races in DC Area!
-Meetup Page:&nbsp;[http://www.meetup.com/dccapitalstriders/events/203298152/
-](http://www.meetup.com/dccapitalstriders/events/203298152/)We have 10 FREE complimentary entries!
-
 ### Saturday, March 14
 
 Race: Rock and Roll DC Half and Full Marathon
 Meetup Page:&nbsp;[http://www.meetup.com/dccapitalstriders/events/208230022/](http://www.meetup.com/dccapitalstriders/events/208230022/)
 Discoutnt Code: Use code DCCS15 for $15 off entry fee
 
-### [Saturday and Sunday, April 18/19, 2015](http://www.meetup.com/dccapitalstriders/events/208230022/)
+### North Face Endurance Challenge
 
-Race: North Face Endurance Challenge
-Discount Code: use code DCCS102015 for 10% off any of their race distances
-Register Here:&nbsp;[http://www.thenorthface.com/en_US/endurance-challenge/washington-dc/?stop_mobi=yes](http://www.thenorthface.com/en_US/endurance-challenge/washington-dc/?stop_mobi=yes)
+April 18 and 19, 2015  
+http://www.meetup.com/dccapitalstriders/events/208742432/  
+Register: http://www.thenorthface.com/en_US/endurance-challenge/washington-dc/?stop_mobi=yes  
+DCCS Discount: Use code DCCS102015 for 10% any distance event
+
 
 _If you want one of the free race entries, please email president@dccapitalstriders.com. Generally, we ask that members volunteer with DCCS in exchange for a free entry, although we are flexible._
