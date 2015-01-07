@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Sam Stout"
+title: "Runner Spotlight: Sam Stout"
 slug: "sam-stout"
 featured: true
 date: "2015-01-06 09:00:00"
