@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Runner Feature: Sam Stout"
 slug: "sam-stout"
 featured: true
