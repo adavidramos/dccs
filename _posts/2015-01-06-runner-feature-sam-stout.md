@@ -2,6 +2,12 @@
 layout: post
 published: false
 title: "Runner Feature: Sam Stout"
+slug: "sam-stout"
+featured: true
+date: "2015-01-06 09:00:00"
+teaser: ""
+author: null
+categories: blog
 ---
 
 As a way for our members to get to know us better, DCCS will be featuring a runner spotlight each week on our blog. Are you interested in being featured for an upcoming spotlight? E-mail Patty at marketing@dccapitalstriders.com and we will reach out to you quickly!
