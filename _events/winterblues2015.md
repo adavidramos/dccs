@@ -1,11 +1,11 @@
 ---
 layout: event
 published: true
-title: Winter Blues
+title: Winter Blues Challenge
 category: events
 featured: true
 teaser: null
-"date-year": "2014"
+"date-year": "2015"
 "date-month": "01"
 "date-day": "12"
 ---
