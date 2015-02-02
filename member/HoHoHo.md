@@ -10,7 +10,7 @@ published: true
 
 **Medi-Dyne.com -&nbsp;**Need short or long term relief from pain from running? &nbsp;Check out this selection of great products! &nbsp;Use code DCSTRIDE20 for 20% off your order at [www.medi-dyne.com](http://www.medi-dyne.com)
 
-**BOOM! Endurance Gels:&nbsp;**<span>20% off with free shipping - Use Coupon Code: AREHZU&nbsp; This may be used on all orders placed at&nbsp;</span>**[www.boomnutrition.com](http://www.boomnutrition.com/)**
+**BOOM! Endurance Gels:&nbsp;** 20% off with free shipping - Use Coupon Code: AREHZU&nbsp; This may be used on all orders placed at&nbsp; **[www.boomnutrition.com](http://www.boomnutrition.com/)**
 
 **Kona Kase** &ndash; All DCCS runners receive 50% off your first month of Kona Kase's Energy Bar of the month Club subscription. Their mission is to help athletes more easily discover and experience nutrition products by delivering a monthly, curated box of product samples to their doorstep. Think "wine of the month club" for healthy training products. Each month you will receive 8 awesome nutrition products at your doorstep for $15. Kona Kase is **contributing back to the DCCS** for every athlete that joins Kona Kase. **Use code**: &ldquo;DCCS&rdquo; for 50% off your first month!&nbsp;[https://www.konakase.com/#](https://www.konakase.com/)
 
