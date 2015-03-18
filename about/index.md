@@ -8,13 +8,14 @@ DC Capital Striders works to bring together runners of all paces, distances, and
 
 ![group in front of capitol](/about/capitol.jpg)
 
-### Board
+### Leadership
 
 Rick Amernick, [President](mailto:president@dccapitalstriders.com)  
-David Ramos, [Technology Director](mailto:technology@dccapitalstriders.com)  
-Lindsay Marsh, [Secretary](mailto:secretary@dccapitalstriders.com)  
+Jesse Fuller, [Sponsorship Coordinator](mailto:sponsorships@dccapitalstriders.com)
 Katherine Gray, [Outreach Director](mailto:outreach@dccapitalstriders.com)  
-Andy Pulsirisaroth, [Race Director](mailto:racedirector@dccapitalstriders.com)  
-Sam Stout, [Membership Director](mailto:membership@dccapitalstriders.com)  
-Sal Mancini, [Treasurer](mailto:treasurer@dccapitalstriders.com)  
 Patty Guidetti, [Marketing Director](mailto:marketing@dccapitalstriders.com)
+Lindsay Marsh, [Secretary](mailto:secretary@dccapitalstriders.com)  
+David Ramos, [Technology Director](mailto:technology@dccapitalstriders.com)  
+Sam Stout, [Membership Director](mailto:membership@dccapitalstriders.com)  
+Michael Wurzbacher, [Race Director](mailto:racedirector@dccapitalstriders.com)  
+[Treasurer](mailto:treasurer@dccapitalstriders.com)  
