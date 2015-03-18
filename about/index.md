@@ -11,9 +11,9 @@ DC Capital Striders works to bring together runners of all paces, distances, and
 ### Leadership
 
 Rick Amernick, [President](mailto:president@dccapitalstriders.com)  
-Jesse Fuller, [Sponsorship Coordinator](mailto:sponsorships@dccapitalstriders.com)
+Jesse Fuller, [Sponsorship Coordinator](mailto:sponsorships@dccapitalstriders.com)  
 Katherine Gray, [Outreach Director](mailto:outreach@dccapitalstriders.com)  
-Patty Guidetti, [Marketing Director](mailto:marketing@dccapitalstriders.com)
+Patty Guidetti, [Marketing Director](mailto:marketing@dccapitalstriders.com)  
 Lindsay Marsh, [Secretary](mailto:secretary@dccapitalstriders.com)  
 David Ramos, [Technology Director](mailto:technology@dccapitalstriders.com)  
 Sam Stout, [Membership Director](mailto:membership@dccapitalstriders.com)  
