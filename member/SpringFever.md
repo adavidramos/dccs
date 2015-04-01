@@ -24,12 +24,6 @@ published: true
 
 ## Race discounts
 
-### Saturday, March 14
-
-Race: Rock and Roll DC Half and Full Marathon
-Meetup Page:&nbsp;[http://www.meetup.com/dccapitalstriders/events/208230022/](http://www.meetup.com/dccapitalstriders/events/208230022/)
-Discoutnt Code: Use code DCCS15 for $15 off entry fee
-
 ### North Face Endurance Challenge
 
 April 18 and 19, 2015  
@@ -37,5 +31,16 @@ http://www.meetup.com/dccapitalstriders/events/208742432/
 Register: http://www.thenorthface.com/en_US/endurance-challenge/washington-dc/?stop_mobi=yes  
 DCCS Discount: Use code DCCS102015 for 10% any distance event
 
+### [Alexandria Running Festival](http://www.meetup.com/dccapitalstriders/events/221395887/)
+
+24 May 2015  
+Use code DCCSHM15 for $10 off Half Marathon entry.  
+Use code DCCS5K15 for $5 off Running Brooke 5K entry.
+
+### [Muscle and Hustle](http://www.meetup.com/dccapitalstriders/events/221438296/)
+
+30 May 2015  
+Use code DCCS for 20% off on registration page.  
+10 free race entries available.
 
 _If you want one of the free race entries, please email president@dccapitalstriders.com. Generally, we ask that members volunteer with DCCS in exchange for a free entry, although we are flexible._
