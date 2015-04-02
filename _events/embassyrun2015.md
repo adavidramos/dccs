@@ -6,8 +6,8 @@ category: events
 featured: true
 teaser: null
 "date-year": "2015"
-"date-month": “05”
-"date-day": “09”
+"date-month": "05"
+"date-day": "09"
 ---
 
 One weekend a year, the European embassies open their doors for tours, food, and fun cultural experiences, but long lines often pose a problem. Luckily, we'll get to skip said lines at a total of ten European embassies over the course of our run. Due to popular demand, we'll have two groups running two different routes this year - one group will run eight miles, while the other will run ten. We'll spend about fifteen to thirty minutes at each embassy, so there will be plenty of opportunities for rest breaks. A photographer will even tag along and take some pictures for the May issue of Runner's World!
