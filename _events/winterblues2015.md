@@ -3,7 +3,7 @@ layout: event
 published: true
 title: Winter Blues Challenge
 category: events
-featured: true
+featured: false
 teaser: null
 "date-year": "2015"
 "date-month": "01"
