@@ -1,7 +1,7 @@
 ---
 layout: race
 title: "Fall in Love 5K 2014"
-featured: 1
+featured: 0
 category: "races"
 teaser: ""
 date-year: 2014

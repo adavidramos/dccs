@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Volunteer: 11 1/2th Potomac River Run Marathon"
-featured: 1
+featured: 0
 category: events
 teaser: "Event: Volunteer with DCCS at 11 1/2th Potomac River Run Marathon"
 date-year: 2014

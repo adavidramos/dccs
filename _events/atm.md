@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Volunteer: Army Ten Miler"
-featured: true
+featured: false
 category: events
 teaser: null
 date-year: 2014
