@@ -31,6 +31,11 @@ http://www.meetup.com/dccapitalstriders/events/208742432/
 Register: http://www.thenorthface.com/en_US/endurance-challenge/washington-dc/?stop_mobi=yes  
 DCCS Discount: Use code DCCS102015 for 10% any distance event
 
+### [Draft Day Dash 5K and Play 60 Fun Run](http://www.meetup.com/dccapitalstriders/events/221578966/)
+
+2 May 2015  
+Use code DCCS2015 for $5 off your entry fee.
+
 ### [Alexandria Running Festival](http://www.meetup.com/dccapitalstriders/events/221395887/)
 
 24 May 2015  
