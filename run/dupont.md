@@ -8,9 +8,9 @@ sort_order: 50
 active: 1
 group_dc: 1
 group_va: null
-leader: "Patty (Tue), Daniel (Sat)"
+leader: "Daniel (Sat)"
 leader_email: "dupont@dccapitalstriders.com"
-schedule: "Tue/Thu 6:30 pm (slow) | Sat 8:00 or 9:00 am (long)"
+schedule: "Sat 8:00 or 9:00 am (long)"
 location: Statue in center of Dupont Circle
 pos_lat: 38.909
 pos_long: -77.043
