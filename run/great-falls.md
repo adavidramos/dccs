@@ -9,7 +9,7 @@ active: 1
 group_dc:
 group_va: 1
 leader: "Rick and Tom"
-leader_email: "difficult@dccapitalstriders.com"
+leader_email: "trailrunning@dccapitalstriders.com"
 schedule: "Wed 6:00 pm"
 location: "Great Falls Park Visitors Center or Difficult Run (see the Meetup page)"
 pos_lat: 38.98180

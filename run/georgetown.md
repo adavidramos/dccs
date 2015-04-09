@@ -5,7 +5,7 @@ slug: "georgetown"
 status: "PUBLISHED"
 featured: 0
 sort_order: 50
-active: 1
+active: 0
 group_dc: 1
 group_va:
 leader: "Will D."
