@@ -3,7 +3,7 @@ layout: run
 title: "Bethesda"
 group_dc: 1
 group_va: 
-leader: "Madeline"
+leader: "Claudia"
 leader_email: "bethesda@dccapitalstriders.com"
 schedule: "Mon 6:00 pm"
 location: "Icebreaker store, 4821 Bethesda Avenue, Bethesda, MD"

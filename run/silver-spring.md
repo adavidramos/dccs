@@ -8,7 +8,7 @@ sort_order: 50
 active: 1
 group_dc: 1
 group_va:
-leader: "Cheryl"
+leader: "Jennifer and Danielle"
 leader_email: "silverspring@dccapitalstriders.com"
 schedule: "Wed 7 p.m."
 location: "CitySports, 8510 Fenton Street, Silver Spring, MD"
