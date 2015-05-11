@@ -3,7 +3,7 @@ layout: event
 published: true
 title: Fifth Annual EU Embassy Run
 category: events
-featured: true
+featured: false
 teaser: null
 "date-year": "2015"
 "date-month": "05"
