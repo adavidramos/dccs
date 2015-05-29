@@ -15,3 +15,5 @@ Jesse Fuller, [Sponsorship Coordinator](mailto:sponsorships@dccapitalstriders.co
 Katherine Gray, [Outreach Director](mailto:outreach@dccapitalstriders.com)  
 Michael Wurzbacher, [Race Director](mailto:racedirector@dccapitalstriders.com)  
 Stephen Yurek, [Treasurer](mailto:treasurer@dccapitalstriders.com)  
+Kate Reading, [Technology Director](mailto:technology@dccapitalstriders.com)  
+
