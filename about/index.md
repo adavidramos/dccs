@@ -11,7 +11,7 @@ DC Capital Striders works to bring together runners of all paces, distances, and
 ### Leadership
 
 Rick Amernick, [President](mailto:president@dccapitalstriders.com)  
-Jesse Fuller, [Sponsorship Coordinator](mailto:sponsorships@dccapitalstriders.com)  
+Jesse Fuller, [Partnership Coordinator](mailto:partnerships@dccapitalstriders.com)  
 Katherine Gray, [Outreach Director](mailto:outreach@dccapitalstriders.com)  
 Michael Wurzbacher, [Race Director](mailto:racedirector@dccapitalstriders.com)  
 Stephen Yurek, [Treasurer](mailto:treasurer@dccapitalstriders.com)  
