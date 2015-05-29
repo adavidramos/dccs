@@ -16,4 +16,5 @@ Katherine Gray, [Outreach Director](mailto:outreach@dccapitalstriders.com)
 Michael Wurzbacher, [Race Director](mailto:racedirector@dccapitalstriders.com)  
 Stephen Yurek, [Treasurer](mailto:treasurer@dccapitalstriders.com)  
 Kate Reading, [Technology Director](mailto:technology@dccapitalstriders.com)  
+Jackie Ho, [Communications Director](mailto:communications@dccapitalstriders.com)  
 
