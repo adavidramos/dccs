@@ -2,7 +2,7 @@
 layout: post
 title: "2nd Annual Fit Fathers Day Celebration"
 slug: "fit-fathers-2015"
-featured: 
+featured: true
 date: "2015-06-05 12:00:00"
 teaser: "Still not sure what to do for Fathers Day? Here’s an idea that combines fitness and fun…plus, it’s free!"
 author: "Jackie Ho"
