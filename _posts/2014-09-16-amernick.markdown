@@ -3,7 +3,6 @@ layout: post
 title: "Club President Rick Amernick in Endurance Racing Magazine"
 slug: "club-president-rick-amernick-endurance-racing-maga"
 featured: 
-date: "2014-09-16 12:00:00"
 teaser: ""
 author: 
 categories: blog
